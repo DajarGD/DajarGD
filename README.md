@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DajarGD
+- 🌱 I’m currently learning Java, Python
+- 📫 How to reach me: dajargd@gmail.com
